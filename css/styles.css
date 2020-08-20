@@ -10,6 +10,11 @@
     min-height: 400px;
 }
 
+.row-aboutus{
+    padding: 10px 0px 10px 0px;
+    min-height: 1px;
+}
+
 .footer{
     background-color: rgb(71, 190, 151);
     margin: 0px auto;
