@@ -42,3 +42,7 @@ body {
 .navbar-dark {
     background-color: darkgreen;
 }
+a {
+    text-decoration:none;
+    color:#333;
+}
